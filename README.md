@@ -28,4 +28,4 @@
 
 
 ### 📫 Connect with me
-[LinkedIn](www.linkedin.com/in/tarek-el-shenawy) • [Portfolio](https://portfolio-website-omega-bay.vercel.app/) • [Email](tarekelshenawy1997@gmail.com)
+[LinkedIn](https:www.linkedin.com/in/tarek-el-shenawy/) • [Portfolio](https://portfolio-website-omega-bay.vercel.app/) • [Email](tarekelshenawy1997@gmail.com)
